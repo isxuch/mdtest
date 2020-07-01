@@ -2,7 +2,7 @@
 
 1.常见页面结构效果图
 
-![image](./images/img@01.png)
+![image](https://isxuch.github.io/file/gns-img/img@01.png)
 
 2.页面HTML结构
 
