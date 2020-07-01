@@ -39,15 +39,15 @@
 
 3.按钮类型
 
-3.1 主按钮-->高35px类-->==layui-btn-h35==;
+3.1 主按钮-->高35px类-->layui-btn-h35;
 
-3.2 次按钮-->高35px类-->==layui-btn-minor-h35==;
+3.2 次按钮-->高35px类-->layui-btn-minor-h35;
 
-3.3 主按钮-->高30px类-->==layui-btn-h30==;
+3.3 主按钮-->高30px类-->layui-btn-h30;
 
-3.4 次按钮-->高30px类-->==layui-btn-minor-h30==;
+3.4 次按钮-->高30px类-->layui-btn-minor-h30;
 
-3.5 次按钮-->高25px类-->==layui-btn-minor-h25==;
+3.5 次按钮-->高25px类-->layui-btn-minor-h25;
 
 4.常用类
 
