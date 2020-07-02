@@ -12,7 +12,7 @@
         <meta charset="UTF-8" />
     </head>
     <body>
-        <div class="layui-fluid layui-fluid-100">
+        <div class="layui-fluid layui-fluid-h100">
             <div class="layui-card layui-card-h100">
                 <div class="layui-card-body">
                     <!-- 表单区域 -->
